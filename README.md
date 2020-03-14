@@ -13,7 +13,6 @@ Go to <a href="https://nodejs.org/en/" target="_blank">Node.org site</a>
 Download latest version of NodeJS LTS with Administrator privileges.
 
 Check the versions of installed packages using below commands from command prompot
-
 <br>git --version
 <br>node --version
 <br>npm --version
