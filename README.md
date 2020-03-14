@@ -19,14 +19,14 @@ Check the versions of installed packages using below commands from command promp
 <br>npm --version
 
 
-<b>Install React<b>
+<b>Install React</b>
 <br>npm install -g create-react-app
 <br>create-react-app --version
 
-<b>Create React Project<b>
+<b>Create React Project</b>
 <br>create-react-app projectname
 
-<b>>Run Project</b>
+<b>Run Project</b>
 <br>cd projectname
 <br>npm start
 <br>Once set up is done, update App.js and App.css under src to the code matches here.
